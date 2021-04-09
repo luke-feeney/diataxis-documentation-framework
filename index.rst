@@ -1,11 +1,5 @@
 .. raw:: html
 
-   <script type="text/javascript">
-   window.location.replace("https://diataxis.fr")
-   </script>
-
-   .. raw:: html
-
     <style>
         .quote {font-size: x-large; font-style: italic; margin: 3em 0 .5em 10%;}
         .attribution {margin: 0 0 3em 10%; font-size: large}
@@ -24,7 +18,9 @@ The documentation system
   \- David Laing
 
 
-..  note:: These pages are now maintained and updated at https://diataxis.fr.
+..  admonition:: Please update your bookmarks!
+
+    These pages are now maintained and updated at https://diataxis.fr.
 
 
 There is a secret that needs to be understood in order to write good software documentation: there isn’t one
