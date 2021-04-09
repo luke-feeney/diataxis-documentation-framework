@@ -71,4 +71,4 @@ html_static_path = ['_static']
 
 master_doc = 'index'
 
-
+html_baseurl = "https://diataxis.fr/"
