@@ -1,5 +1,11 @@
 .. raw:: html
 
+   <script type="text/javascript">
+   window.location.replace("https://diataxis.fr")
+   </script>
+
+   .. raw:: html
+
     <style>
         .quote {font-size: x-large; font-style: italic; margin: 3em 0 .5em 10%;}
         .attribution {margin: 0 0 3em 10%; font-size: large}
